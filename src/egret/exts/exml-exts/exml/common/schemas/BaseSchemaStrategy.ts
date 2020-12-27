@@ -1,5 +1,5 @@
 import { ISchemaStrategy } from './ISchemaStrategy';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { AbstractExmlConfig } from '../project/exmlConfigs';
 import { ClassNode } from '../project/syntaxNodes';
 import { ClassChangedType } from '../project/parsers/parser';

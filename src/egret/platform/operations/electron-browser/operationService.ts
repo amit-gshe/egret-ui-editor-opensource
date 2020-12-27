@@ -7,6 +7,7 @@ import { systemRols, SystemCommands } from '../commands/systemCommands';
 
 import * as Mousetrap from 'mousetrap';
 import { isWindows } from 'egret/base/common/platform';
+import { ExtendedKeyboardEvent } from 'mousetrap';
 
 
 (function (Mousetrap) {

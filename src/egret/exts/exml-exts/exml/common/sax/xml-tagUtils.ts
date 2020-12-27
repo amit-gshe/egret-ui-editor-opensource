@@ -1,6 +1,6 @@
 import * as sax from './sax';
 import * as objects from 'egret/base/common/objects';
-import { Namespace } from './Namespace';
+import { Namespace } from './namespace';
 import { trim } from 'egret/base/common/strings';
 
 /**

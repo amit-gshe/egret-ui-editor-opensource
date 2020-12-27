@@ -1,6 +1,6 @@
 import { ExmlModelConfig } from './exmlModeConfig';
 import { IExmlModel } from './models';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import * as sax from '../sax/sax';
 import { IHashObject } from './common';
 import { Event } from 'egret/base/common/event';

@@ -11,8 +11,8 @@ import {
 } from '../core/Schema';
 import { ISchemaContentAssist } from './ISchemaContentAssist';
 import { SchemaContentAssist } from './SchemaContentAssist';
-import { QName } from './../sax/QName';
-import { Namespace } from './../sax/Namespace';
+import { QName } from './../sax/qName';
+import { Namespace } from './../sax/namespace';
 import * as sax from '../sax/sax';
 
 type RequestIdleCallbackHandle = any;

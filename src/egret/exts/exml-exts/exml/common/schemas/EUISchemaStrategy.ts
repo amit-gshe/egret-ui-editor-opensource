@@ -1,6 +1,6 @@
 import { BaseSchemaStrategy } from './BaseSchemaStrategy';
 import { ISchemaStrategy } from './ISchemaStrategy';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { EUI, W_GUI } from '../project/parsers/core/commons';
 
 /**

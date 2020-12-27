@@ -6,7 +6,7 @@ import * as xmlTagUtil from '../sax/xml-tagUtils';
 import * as xmlStrUtil from '../sax/xml-strUtils';
 import { W_EUI, EUI } from '../project/parsers/core/commons';
 import { trim, startWith, endWith, escapeHTMLEntity } from '../utils/strings';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { IObject, IValue, IArray, INode, isInstanceof, IContainer, ISingleChild, IClass, ILink, ISize, IScale9Grid, IViewStack, IScroller, TreeChangedEvent, TreeChangedKind, NodeAddedEvent, NodeRemovedEvent, NodeSelectChangedEvent, ViewStackIndexChangedEvent } from './treeNodes';
 import { IInstantiationService } from 'egret/platform/instantiation/common/instantiation';
 import { IEgretProjectService } from '../../../project';

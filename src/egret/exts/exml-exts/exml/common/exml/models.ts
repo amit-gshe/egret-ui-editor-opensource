@@ -3,7 +3,7 @@ import { IArray, INode, IObject, IValue, IClass, IContainer, ILink, IScroller, I
 import { Rectangle, Point } from './common';
 import { ExmlModelConfig } from './exmlModeConfig';
 import * as sax from '../sax/sax';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { Event } from 'egret/base/common/event';
 import { HistoryInfo } from './exmlModel';
 import { IAnimationModel } from '../plugin/IAnimationModel';

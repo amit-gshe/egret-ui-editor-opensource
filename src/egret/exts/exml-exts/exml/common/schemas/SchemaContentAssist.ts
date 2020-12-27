@@ -3,7 +3,7 @@ import { Schema, Element } from '../core/Schema';
 import { XMLDocument } from '../core/XMLDocument';
 import { ISchemaContentAssist, EXMLPos, EXMLPosCheckResult } from './ISchemaContentAssist';
 import { SchemaContentAssistUtil } from './SchemaContentAssistUtil';
-import { QName } from './../sax/QName';
+import { QName } from './../sax/qName';
 
 /**
  * xml规则内容助手

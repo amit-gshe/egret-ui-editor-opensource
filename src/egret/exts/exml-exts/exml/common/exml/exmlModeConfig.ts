@@ -4,7 +4,7 @@ import { Emitter, Event } from 'egret/base/common/event';
 
 import { EgretRuntimeDelegate, IRuntimeAPI } from '../../runtime/runtime';
 import { IEgretProjectService } from '../../../project';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { endWith } from '../utils/strings';
 import { W_EUI } from '../project/parsers/core/commons';
 

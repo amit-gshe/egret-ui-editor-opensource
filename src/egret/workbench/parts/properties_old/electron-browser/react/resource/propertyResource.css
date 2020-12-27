@@ -62,10 +62,8 @@
     background-image: url('light/bringForward.svg');
 }
 .icon-button.front_back {
-    background-image: url('light/sendToBack.svg');
 }
 .icon-button.front_backward {
-    background-image: url('light/sendBackWard.svg');
 }
 
 

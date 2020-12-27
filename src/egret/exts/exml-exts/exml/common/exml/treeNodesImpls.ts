@@ -1,5 +1,5 @@
 import { IValue, registerInstanceType, IArray, IObject, IClass, INode, IContainer, IScale9Grid, IViewStack, ISingleChild, IScroller, ILink, InstanceChangedEvent, PropertyChangedEvent, InstanceValueChangedEvent, LockedChangedEvent, NodeRemovedEvent, NodeAddedEvent, NodeSelectChangedEvent, ViewStackIndexChangedEvent, TreeChangedEvent, TreeChangedKind, ISize } from './treeNodes';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { ExmlModelConfig } from './exmlModeConfig';
 import { IExmlModel } from './models';
 import { EUI, W_EUI } from '../project/parsers/core/commons';

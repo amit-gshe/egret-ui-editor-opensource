@@ -3,7 +3,7 @@ import URI from 'egret/base/common/uri';
 import { ClassNode } from '../../syntaxNodes';
 import * as sax from '../../../sax/sax';
 import * as xmlTagUtil from '../../../sax/xml-tagUtils';
-import { Namespace } from '../../../sax/Namespace';
+import { Namespace } from '../../../sax/namespace';
 
 /**
  * 临时的ts类数据

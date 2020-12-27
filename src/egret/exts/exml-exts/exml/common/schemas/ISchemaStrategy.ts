@@ -1,4 +1,4 @@
-import { Namespace } from './../sax/Namespace';
+import { Namespace } from './../sax/namespace';
 import { ClassChangedType } from '../project/parsers/parser';
 /**
  * xml规范策略，用于给规范数据层提供基本方法用的。 而规范数据层是用于提供EXML代码提示用的。

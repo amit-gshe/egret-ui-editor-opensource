@@ -3,7 +3,7 @@ import {
 	SchemaRefChecker, ISchemaRef, SchemaAnyChecker, Attribute, ISchemaAny, AttributeGroup, SchemaContainer
 } from '../core/Schema';
 import { XMLDocument } from '../core/XMLDocument';
-import { QName } from './../sax/QName';
+import { QName } from './../sax/qName';
 import * as sax from '../sax/sax';
 import { EXMLPos, EXMLPosCheckResult } from './ISchemaContentAssist';
 import { IOutputService } from 'egret/workbench/parts/output/common/output';

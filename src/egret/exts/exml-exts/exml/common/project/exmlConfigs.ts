@@ -7,7 +7,7 @@ import * as paths from 'path';
 import * as fs from 'fs';
 
 import { ClassNode, Prop } from './syntaxNodes';
-import { Namespace } from '../sax/Namespace';
+import { Namespace } from '../sax/namespace';
 import { endWith } from '../utils/strings';
 import { EgretProjectModel } from './egretProject';
 import { EgretEngineInfo } from './egretSDK';

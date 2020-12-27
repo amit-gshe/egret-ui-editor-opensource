@@ -6,7 +6,7 @@
 
 import { AbstractSchemaModel } from './AbstractSchemaModel';
 import { ISchemaStrategy } from './ISchemaStrategy';
-import { Namespace } from './../sax/Namespace';
+import { Namespace } from './../sax/namespace';
 import * as sax from '../sax/sax';
 import { ClassChangedType } from '../project/parsers/parser';
 

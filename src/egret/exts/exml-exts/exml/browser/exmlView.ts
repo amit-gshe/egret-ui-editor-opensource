@@ -15,7 +15,7 @@ import { ExmlEditor } from './exmleditor/ExmlEditor';
 import { IExmlView, IExmlViewContainer } from './editors';
 import * as xmlStrUtil from '../common/sax/xml-strUtils';
 import * as xmlTagUtil from '../common/sax/xml-tagUtils';
-import { Namespace } from '../common/sax/Namespace';
+import { Namespace } from '../common/sax/namespace';
 import { Rectangle } from './exmleditor/data/Rectangle';
 import { EditMode, PreviewConfig } from './commons';
 import { IOutputService } from 'egret/workbench/parts/output/common/output';

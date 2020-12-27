@@ -2,7 +2,7 @@ import { Schema, Element } from '../core/Schema';
 import { Tag } from '../sax/sax';
 import { XMLDocument } from '../core/XMLDocument';
 
-import { QName } from './../sax/QName';
+import { QName } from './../sax/qName';
 
 export enum EXMLPos {
 	Undefined = 'Undefined', // 未定义的, 不支持自动完成的部分

@@ -1,5 +1,5 @@
-import { QName } from './../sax/QName';
-import { Namespace } from './../sax/Namespace';
+import { QName } from './../sax/qName';
+import { Namespace } from './../sax/namespace';
 import * as StringUtil from './../utils/strings';
 
 import * as sax from '../sax/sax';

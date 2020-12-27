@@ -1,7 +1,7 @@
 import { IExmlModel } from "../../common/exml/models";
 import { DragRect } from "./rendercomp/DragRect";
 import { ContainerMarkRect } from "./rendercomp/ContainerMarkRect";
-import { Namespace } from "egret/exts/exml-exts/exml/common/sax/Namespace";
+import { Namespace } from "egret/exts/exml-exts/exml/common/sax/namespace";
 import { EUI } from "egret/exts/exml-exts/exml/common/project/parsers/core/commons";
 import { INode, IViewStack, isInstanceof, IContainer, IScroller } from "egret/exts/exml-exts/exml/common/exml/treeNodes";
 import { localize } from "vs/nls";

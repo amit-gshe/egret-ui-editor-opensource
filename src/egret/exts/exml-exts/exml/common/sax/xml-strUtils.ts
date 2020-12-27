@@ -1,4 +1,4 @@
-import { Namespace } from './Namespace';
+import { Namespace } from './namespace';
 import { trim, trimRight, trimLeft, checkInString } from '../utils/strings';
 import * as sax from './sax';
 import * as xmlTagUtil from './xml-tagUtils';
